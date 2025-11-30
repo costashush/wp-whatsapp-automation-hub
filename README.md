@@ -4,4 +4,4 @@ whatsapp integration tool
 * admin sender 
 * settings 
 * file-based logs 
-— all in one automation hub for WordPress. -
+## — all in one automation hub for WordPress. -
