@@ -8,9 +8,6 @@ Includes:
 - Auto-reply bot  
 - Admin message sender  
 - Settings page (Access Token, Phone Number ID, Verify Token)  
-- File-based logs in `/uploads/wpwb/whatsapp-bot.log`  
-- Ping endpoint  
-- Works with Meta WhatsApp Cloud API v20.0  
 
 ---
 
