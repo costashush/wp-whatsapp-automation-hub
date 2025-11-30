@@ -1,3 +1,7 @@
 # WP Meta Whatsapp automation hub
 whatsapp integration tool 
- * Description: WhatsApp Cloud API webhook + admin sender + settings + file-based logs — all in one automation hub for WordPress.
+* WhatsApp Cloud API webhook
+* admin sender 
+* settings 
+* file-based logs 
+— all in one automation hub for WordPress. -
