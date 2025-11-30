@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WP WhatsApp Automation Hub
- * Plugin URI: https://github.com/storz/wp-whatsapp-automation-hub
+ * Plugin URI: https://github.com/costashush/wp-whatsapp-automation-hub
  * Description: WhatsApp Cloud API webhook + admin sender + settings + file-based logs — all in one automation hub for WordPress.
  * Version: 1.0.0
  * Author: STORZ
