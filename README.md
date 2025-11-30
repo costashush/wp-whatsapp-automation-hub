@@ -1,2 +1,2 @@
-# wp-whatsapp-automation-hub
+# WP Meta Whatsapp automation hub
 whatsapp integration tool 
